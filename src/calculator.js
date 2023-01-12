@@ -47,6 +47,7 @@ exports.divide = (x, y) => {
 
 exports.NOOP = () => {
   // do nothing
+  // new comment
 }
 
 exports.NOOP2 = () => {
