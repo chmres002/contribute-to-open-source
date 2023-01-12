@@ -49,4 +49,8 @@ exports.NOOP = () => {
   // do nothing
 }
 
+exports.NOOP2 = () => {
+  // do nothing
+}
+
 module.exports = exports;
