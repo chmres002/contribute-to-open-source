@@ -45,4 +45,8 @@ exports.divide = (x, y) => {
   return x / y;
 };
 
+exports.NOOP = () => {
+  // do nothing
+}
+
 module.exports = exports;
